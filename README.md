@@ -1,4 +1,4 @@
-#Epic egg simulation
+# Epic egg simulation
 
 This repo includes the notebook I used to generation epic egg statistics for Pokerogue's current gacha system. Epic eggs heavily gate dex completion because most exclusives are in this tier.
 
